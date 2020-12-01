@@ -1,0 +1,5 @@
+numbers= [2,3,4,5,6,7,8,9,10]
+print("THE EVEN NUMBERS ARE:")
+for i in numbers:
+    if i%2==0:
+        print(i)
